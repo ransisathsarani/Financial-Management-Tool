@@ -1,0 +1,14 @@
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\bin\Debug\FinancialManagementTool.exe.config
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\bin\Debug\FinancialManagementTool.exe
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\bin\Debug\FinancialManagementTool.pdb
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.csproj.AssemblyReference.cache
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.csproj.SuggestedBindingRedirects.cache
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.MainForm.resources
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.Properties.Resources.resources
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.RegisterView.resources
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.csproj.GenerateResource.cache
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.csproj.CoreCompileInputs.cache
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.exe
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.pdb
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.IncomeAddView.resources
+F:\IIT Projects\FinancialManagementTool\FinancialManagementTool\obj\Debug\FinancialManagementTool.ExpenseIncomeAddView.resources
