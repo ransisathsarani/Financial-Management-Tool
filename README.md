@@ -1,3 +1,5 @@
 # Financial-Management-Tool
-Standalone application - 
+Standalone application
 University Project
+
+Winows form application C#
