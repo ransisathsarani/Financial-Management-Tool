@@ -1,3 +1,3 @@
 # Financial-Management-Tool
-Standalone application
+Standalone application - 
 University Project
